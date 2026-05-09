@@ -315,3 +315,4 @@ A **estrutura** do POP é sempre a mesma (template ISO 9001 fixo em `prompt.js`)
 | Infraestrutura | Integração | `infra/` · `scripts/` · `.github/` |
 
 **Entrega: 06/05/2026**
+Alteraro por Rafael
